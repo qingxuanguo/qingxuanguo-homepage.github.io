@@ -1,0 +1,46 @@
+<script src="/assets/js/main.min.js"></script>
+<script>
+// Video hover effect: play on hover, pause on leave
+$(window).on('load', function() {
+  console.log('Window loaded, initializing video hover effects...');
+  
+  $('.paper-box-image').each(function() {
+    var $box = $(this);
+    var video = $box.find('video.project-video')[0];
+    
+    if (video) {
+      console.log('✓ Found video element:', video.src);
+      
+      // Preload video for faster playback
+      video.load();
+      
+      // Mouse enter: show and play video
+      $box.on('mouseenter', function() {
+        console.log('→ Mouse enter - attempting to play video');
+        video.style.opacity = '1';
+        
+        video.play().then(function() {
+          console.log('✓ Video playing successfully');
+        }).catch(function(error) {
+          console.error('✗ Video play failed:', error.message);
+          console.error('  Error code:', error.code);
+          console.error('  Video readyState:', video.readyState);
+          console.error('  Video src:', video.src);
+        });
+      });
+      
+      // Mouse leave: hide and pause video
+      $box.on('mouseleave', function() {
+        console.log('← Mouse leave - pausing video');
+        video.pause();
+        video.currentTime = 0;
+        video.style.opacity = '0';
+      });
+    } else {
+      console.log('- No video in this paper-box-image');
+    }
+  });
+  
+  console.log('Video hover initialization complete');
+});
+</script>

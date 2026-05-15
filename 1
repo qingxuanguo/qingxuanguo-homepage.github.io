@@ -1,0 +1,67 @@
+4. 最关键优化：不要 autoplay
+
+你现在的方案其实会：
+
+页面打开就播放全部视频
+
+这是最耗资源的。
+
+更专业的是：
+
+hover 时 JS 播放
+
+例如：
+
+<div class="paper-box-image">
+    <img class="project-static" src="preview.jpg">
+
+    <video class="project-video"
+           muted
+           loop
+           playsinline>
+        <source src="demo.mp4" type="video/mp4">
+    </video>
+</div>
+
+然后：
+
+document.querySelectorAll('.paper-box-image').forEach(box => {
+    const video = box.querySelector('video');
+
+    box.addEventListener('mouseenter', () => {
+        video.play();
+    });
+
+    box.addEventListener('mouseleave', () => {
+        video.pause();
+        video.currentTime = 0;
+    });
+});
+
+这个方案：
+
+hover 才解码
+CPU 占用小很多
+不卡
+专业 portfolio 基本都这么做
+最后建议（很适合你）
+
+你的机器人/手术机器人项目：
+
+最好的展示方式其实是：
+
+静态封面图
+hover 播放 3–5 秒 motion
+低码率 MP4
+1~2MB
+hover 才播放
+
+整体会非常高级。
+
+比：
+
+gif
+长视频
+autoplay 一堆
+
+专业得多。
