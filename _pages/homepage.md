@@ -24,7 +24,7 @@ author_profile: true
 **University of Illinois at Urbana-Champaign (UIUC)**, Urbana, IL  
 Master of Engineering in Mechanical Engineering | Sep 2021 – Jan 2023 | GPA: 3.79/4.00
 
-**Technion – Israel Institute of Technology**, Haifa, Israel  
+**Israel Institute of Technology (Technion)**, Haifa, Israel  
 Bachelor of Science in Mechanical Engineering | Aug 2017 – Jul 2021 | GPA: 86/100
 
 <span class='anchor' id='-portfolio'></span>
@@ -33,7 +33,10 @@ Bachelor of Science in Mechanical Engineering | Aug 2017 – Jul 2021 | GPA: 86/
 # 🤖 Portfolio
 
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/images/project_bath.jpg' alt="project1" width="100%" class="project-static">
+<img src='/images/project_bath.png' alt="project1" width="100%" class="project-static">
+<video muted loop playsinline preload="auto" class="project-video">
+  <source src="/videos/project_bath.mp4" type="video/mp4">
+</video>
 </div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -167,8 +170,33 @@ Designed and built a parallel manipulator for precision positioning, derived inv
   - Status: Published, CVPR 2016
 -->
 
+<span class='anchor' id='-patents'></span>
+# 💡 Patents
+
+- **Guo, Q., Liu, F., Yang, L., Lang, J., Lü, C., Li, L., & Liu, Y.** (2026). *Hybrid Optical and Mechanical Localization Method and System* (Chinese Patent No. CN116942314B). China National Intellectual Property Administration (CNIPA).
+  - Status: Granted
+
+- **Guo, Q. & Zhang, Y.** (2024). *Portable Cocktail Mixer* (Chinese Utility Model Patent No. CN221141662U). China National Intellectual Property Administration (CNIPA).
+  - Status: Granted
+
+<!-- Patent format template for future patents
+
+## Chinese Patents
+- **[Inventor Last Name, Initial.]**, Co-inventor, A., & Co-inventor, B. (Year). *Patent Title* (Chinese Patent No. ZL XXXXXXXX.X). China National Intellectual Property Administration (CNIPA).
+  - Status: Filed / Pending / Granted / Issued
+
+## US Patents
+- **[Inventor Last Name, Initial.]**, Co-inventor, A., & Co-inventor, B. (Year). *Title of the Patent* (U.S. Patent No. XX,XXX,XXX). United States Patent and Trademark Office (USPTO).
+  - Status: Granted / Pending / Application Filed
+
+## International Patents (PCT)
+- **[Inventor Last Name, Initial.]**, Co-inventor, A., & Co-inventor, B. (Year). *Title of the Patent* (International Patent Application No. PCT/CN2024/XXXXXX). World Intellectual Property Organization (WIPO).
+  - Status: Published / Pending
+
+-->
+
 <span class='anchor' id='-honors-and-awards'></span>
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 
 - **2025** - Key Highlights of the Exhibition, World Artificial Intelligence Conference (WAIC) 2025
 - **2021/2022** - Prof. Mark Darlo Award for Outstanding Project in Mechatronics
