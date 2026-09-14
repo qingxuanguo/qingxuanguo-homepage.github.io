@@ -147,10 +147,10 @@ Designed and built a parallel manipulator for precision positioning, derived inv
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-**Levels of Autonomy in Robot-Assisted Laparoscopic Surgery: Current Capabilities and Evolutionary Pathways**  
-**Qingxuan Guo**  
-CONF-MLA 2026. **Accepted for publication.**  
-To appear in *Applied and Computational Engineering*.
+- **Levels of Autonomy in Robot-Assisted Laparoscopic Surgery: Current Capabilities and Evolutionary Pathways**  
+  **Qingxuan Guo**  
+  CONF-MLA 2026 · **Accepted**  
+  To appear in *Applied and Computational Engineering*.
 
 <!-- Academic publication format template
 
