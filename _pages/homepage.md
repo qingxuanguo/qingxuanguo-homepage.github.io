@@ -178,8 +178,6 @@ Designed and built a parallel manipulator for precision positioning, derived inv
 <span class='anchor' id='-patents'></span>
 # 💡 Patents
 
-*English titles are translations of the Chinese originals. Inventors are listed in the published order. Statuses were checked against Google Patents on November 4, 2026.*
-
 ## Granted Patents
 
 - Lü, C., Liu, F., & **Guo, Q.** (2026). *[High-Dimensional Spherical Harmonic Calibration Method and System for Improving Robot Absolute Positioning Accuracy](https://patents.google.com/patent/CN118024270B/en)*. **CN118024270B**.<br>
