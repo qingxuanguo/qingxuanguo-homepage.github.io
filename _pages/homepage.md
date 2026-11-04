@@ -178,27 +178,41 @@ Designed and built a parallel manipulator for precision positioning, derived inv
 <span class='anchor' id='-patents'></span>
 # 💡 Patents
 
-- **Guo, Q., Liu, F., Yang, L., Lang, J., Lü, C., Li, L., & Liu, Y.** (2026). *Hybrid Optical and Mechanical Localization Method and System* (Chinese Patent No. CN116942314B). China National Intellectual Property Administration (CNIPA).
-  - Status: Granted
+*English titles are translations of the Chinese originals. Inventors are listed in the published order. Statuses were checked against Google Patents on November 4, 2026.*
 
-- **Guo, Q. & Zhang, Y.** (2024). *Portable Cocktail Mixer* (Chinese Utility Model Patent No. CN221141662U). China National Intellectual Property Administration (CNIPA).
-  - Status: Granted
+## Granted Patents
 
-<!-- Patent format template for future patents
+- Lü, C., Liu, F., & **Guo, Q.** (2026). *[High-Dimensional Spherical Harmonic Calibration Method and System for Improving Robot Absolute Positioning Accuracy](https://patents.google.com/patent/CN118024270B/en)*. **CN118024270B**.<br>
+  Chinese invention patent · **Granted; active** · Granted: May 29, 2026.
 
-## Chinese Patents
-- **[Inventor Last Name, Initial.]**, Co-inventor, A., & Co-inventor, B. (Year). *Patent Title* (Chinese Patent No. ZL XXXXXXXX.X). China National Intellectual Property Administration (CNIPA).
-  - Status: Filed / Pending / Granted / Issued
+- Liu, F., **Guo, Q.**, Yang, L., Lang, J., Lü, C., Li, L., & Liu, Y. (2026). *[Hybrid Optical and Mechanical Positioning Method and System](https://patents.google.com/patent/CN116942314B/en)*. **CN116942314B**.<br>
+  Chinese invention patent · **Granted; active** · Granted: May 8, 2026. Application published as [CN116942314A](https://patents.google.com/patent/CN116942314A/en).
 
-## US Patents
-- **[Inventor Last Name, Initial.]**, Co-inventor, A., & Co-inventor, B. (Year). *Title of the Patent* (U.S. Patent No. XX,XXX,XXX). United States Patent and Trademark Office (USPTO).
-  - Status: Granted / Pending / Application Filed
+- Zhang, Y., & **Guo, Q.** (2024). *[Portable Cocktail Dispenser](https://patents.google.com/patent/CN221141662U/en)*. **CN221141662U**.<br>
+  Chinese utility model patent · **Granted; active** · Granted: June 14, 2024.
 
-## International Patents (PCT)
-- **[Inventor Last Name, Initial.]**, Co-inventor, A., & Co-inventor, B. (Year). *Title of the Patent* (International Patent Application No. PCT/CN2024/XXXXXX). World Intellectual Property Organization (WIPO).
-  - Status: Published / Pending
+## Published Patent Applications
 
--->
+- Zhao, J., **Guo, Q.**, Wang, D., Miao, J., & Lan, Y. (2026). *[Zero-Shot Image Segmentation Method and System Based on 3D Object Models](https://patents.google.com/patent/CN122157261A/en)*. **CN122157261A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: June 5, 2026.
+
+- Fan, H., Gao, X., **Guo, Q.**, & Lan, Y. (2026). *[Miniature Encoder Mounting Structure for Robotic Finger Joints to Improve Control Accuracy](https://patents.google.com/patent/CN121403447A/en)*. **CN121403447A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: January 27, 2026.
+
+- Gao, X., Zheng, Y., **Guo, Q.**, Zhang, J., & Liu, Y. (2025). *[3 mm Miniature Cable-Driven Needle Holder for Minimally Invasive Surgery](https://patents.google.com/patent/CN120938516A/en)*. **CN120938516A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: November 14, 2025.
+
+- **Guo, Q.**, Liu, F., Zhao, L., & Hu, Y. (2025). *[Integrated Drive and Control System with Dual Feedback Based on a Distributed Architecture, and Control Method](https://patents.google.com/patent/CN120921391A/en)*. **CN120921391A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: November 11, 2025.
+
+- Miao, J., Liu, Y., Lü, C., Li, L., Huang, Q., Li, M., & **Guo, Q.** (2025). *[Method and System for Precise Dual-Pin Positioning in Total Ankle Surgery under Optical Guidance](https://patents.google.com/patent/CN120814907A/en)*. **CN120814907A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: October 21, 2025.
+
+- Li, T., **Guo, Q.**, Zheng, Y., Li, L., & Liu, Y. (2025). *[Adjustable Osteotomy Plate](https://patents.google.com/patent/CN120678489A/en)*. **CN120678489A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: September 23, 2025.
+
+- Liu, F., **Guo, Q.**, Lü, C., Lang, J., Yang, L., Hu, Y., & Liu, Y. (2024). *[Multi-Parameter Measurement Method and System for Robot Joint Modules](https://patents.google.com/patent/CN117754636A/en)*. **CN117754636A**.<br>
+  Chinese invention patent application · **Published; pending** · Published: March 26, 2024.
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
